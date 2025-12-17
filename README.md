@@ -43,8 +43,10 @@ Developed by: RegisterNumber:*/
 **Output:**
 
 **RTL**
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 143727" src="https://github.com/user-attachments/assets/019fe298-00e5-442c-857a-4dafed91b006" />
 
 **Timing Diagram**
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 144041" src="https://github.com/user-attachments/assets/ed8a9495-6415-4aa5-9cce-ed4b02d745ed" />
 
 **Result:**
 
